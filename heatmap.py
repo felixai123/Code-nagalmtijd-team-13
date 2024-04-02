@@ -51,7 +51,7 @@ for i in range(num_rows):
 #2 plt.title maakt een titel aan
 #3 plt.xlabel geeft aan hoe breed de ruimte is
 #4 plt.ylabel geeft de lengte van de ruimte aan
-plt.colorbar(label='Intensity')
+plt.colorbar(label='nagalmtijd')
 plt.title('Heatmap KENK-gemiddelde')
 plt.xlabel('Breedte')
 plt.ylabel('Lengte')
