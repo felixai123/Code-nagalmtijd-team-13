@@ -6,7 +6,7 @@ Created on Sat Mar 30 18:41:53 2024
 """
 
 import os
-#zoekt in de volder
+#zoekt in de juiste folder
 os.chdir(r"E:\\project\\blok3\\metingo")
 
 #140 was in dit geval meer dan aantal bestanden
